@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b6f9b90-211c-41a2-97b1-05d0aeb169ca" name="Changes" comment="Deployment">
-      <change afterPath="$PROJECT_DIR$/blog/infra/k8s/posts-srv.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/posts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog/posts/index.js" afterDir="false" />
+    <list default="true" id="4b6f9b90-211c-41a2-97b1-05d0aeb169ca" name="Changes" comment="query updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="47d771ae-e07b-4c6f-8226-cf51c169a49c" />
+        <option name="url" value="https://github.com/mpouyakh9/Microsevices_with_NodeJs-React.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2Pt1eJBJim6PB2GbwZXAEaXpTa1" />
   <component name="ProjectViewState">
@@ -67,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1684261657889</updated>
       <workItem from="1684261659017" duration="2241000" />
-      <workItem from="1684376784879" duration="12240000" />
+      <workItem from="1684376784879" duration="13317000" />
+      <workItem from="1685371736439" duration="18287000" />
     </task>
     <task id="LOCAL-00001" summary="firstupload">
       <created>1684261962638</created>
@@ -90,7 +103,63 @@
       <option name="project" value="LOCAL" />
       <updated>1685037351821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="NodePort">
+      <created>1685042012099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685042012099</updated>
+    </task>
+    <task id="LOCAL-00005" summary="event-bus">
+      <created>1685386815738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685386815738</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ClusterIP">
+      <created>1685388184339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685388184339</updated>
+    </task>
+    <task id="LOCAL-00007" summary="URL updated">
+      <created>1685390351538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685390351538</updated>
+    </task>
+    <task id="LOCAL-00008" summary="URL updated">
+      <created>1685561493925</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685561493925</updated>
+    </task>
+    <task id="LOCAL-00009" summary="moderation updated">
+      <created>1685561599150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685561599150</updated>
+    </task>
+    <task id="LOCAL-00010" summary="query updated">
+      <created>1685562026376</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685562026376</updated>
+    </task>
+    <task id="LOCAL-00011" summary="query updated">
+      <created>1685634955104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685634955104</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +179,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstupload" />
     <MESSAGE value="Deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deployment" />
+    <MESSAGE value="NodePort" />
+    <MESSAGE value="event-bus" />
+    <MESSAGE value="ClusterIP" />
+    <MESSAGE value="URL updated" />
+    <MESSAGE value="moderation updated" />
+    <MESSAGE value="query updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="query updated" />
   </component>
 </project>
